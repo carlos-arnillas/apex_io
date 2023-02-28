@@ -20,7 +20,7 @@ files <- list(mask=paste0(folders$zones, "mask.shp"),
               dem=paste0(folders$dem, "dem.tif"),
               apex_app="../../../../../model/APEX/src/apex_utsc")
 
-db_str_fn <- "../../apex_r/codes/database_structure.xlsx"
+db_str_fn <- "../../apex_r/codes/database_structure2.xlsx"
 lu_lk_fn <- "../../apex_r/codes/landuse_link.xlsx"
 
 # This is a general variable that should force everything to be redone.
