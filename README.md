@@ -1,4 +1,7 @@
 # apex_io
+APEX IO provides a way to read APEX output files. Notice that the code is not optimized to read the output quickly, but to work with the very different outputs created by APEX.
+Not all formats are yet supported. If the format is not supported, the code will indicate it.
+
 To use:
 
 Load the codes:
